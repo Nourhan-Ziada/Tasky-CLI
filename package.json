@@ -1,0 +1,24 @@
+{
+  "name": "tasky-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "cli-table3": "^0.6.5",
+    "dayjs": "^1.11.13",
+    "figlet": "^1.8.1",
+    "inquirer": "^12.6.3",
+    "lowdb": "^7.0.1",
+    "ora": "^8.2.0",
+    "uuid": "^11.1.0",
+    "zod": "^3.25.36"
+  }
+}
